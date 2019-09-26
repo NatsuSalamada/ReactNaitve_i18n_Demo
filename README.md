@@ -1,0 +1,1 @@
+ReactNative_i18n_Demo
